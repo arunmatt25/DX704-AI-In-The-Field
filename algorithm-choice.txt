@@ -1,0 +1,1 @@
+UCB1 (Hoeffding): rewards are bounded, continuous, and non-Bernoulli, so UCB1 fits the assumptions directly, while Thompson/Beta-Bernoulli is mismatched and epsilon-greedy is less sample-efficient.
