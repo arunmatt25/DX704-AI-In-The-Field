@@ -1,0 +1,8 @@
+state	action	expected_sick_days
+exposed-1	sleep-8	1.2499999999992744
+exposed-2	sleep-8	2.499999999998963
+exposed-3	sleep-8	4.9999999999985185
+recovered	do-nothing	-0.0
+symptoms-1	do-nothing	9.999999999997884
+symptoms-2	do-nothing	6.666666666666568
+symptoms-3	do-nothing	3.3333333333333304
