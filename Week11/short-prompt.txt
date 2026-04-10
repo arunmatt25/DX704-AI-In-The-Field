@@ -1,0 +1,3 @@
+Return exactly one label: electrical, plumbing, or roofing. No explanation.
+Homeowner request: {query}
+Label:

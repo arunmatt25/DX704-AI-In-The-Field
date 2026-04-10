@@ -1,0 +1,6 @@
+query	target_category	predicted_category
+Water dripping from ceiling near light fixture, could be wiring or pipe?	plumbing	electrical
+Outlet near sink stopped working after leak, is it wiring or plumbing issue?	electrical	plumbing
+Attic fan stopped working after storm, do I need roof repair or electrician?	electrical	roofing
+Low water pressure in shower after roof repair, who should I call?	plumbing	roofing
+Circuit breaker trips when water heater runs, is this plumbing or electrical?	electrical	plumbing
